@@ -1,6 +1,6 @@
 ## Escuela Colombiana de Ingeniería
 
-# Assignment02
+# Alzheimer data set
 
 
 
@@ -18,7 +18,7 @@ To download this project, you must run the following command down below.
 https://github.com/JuanPablo70/PGAD-Assignment02.git
 ```
 
-If you haven't set R kernel on your computer, download and install [R for Windows](https://cran.r-project.org/bin/windows/base/) on your computer. Once R is installed, run the following commands in the R terminal:
+If you haven't set the R kernel on your computer, download and install [R for Windows](https://cran.r-project.org/bin/windows/base/) on your computer. Once R is installed, run the following commands in the R terminal:
 
 ```
 install.packages(c('repr', 'IRdisplay', 'evaluate', 'crayon', 'pbdZMQ', 'devtools', 'uuid', 'digest'))
@@ -32,7 +32,7 @@ Taken from [RUNNING R ON JUPYTER NOTEBOOK WITH R KERNEL (NO ANACONDA)](https://s
 
 ### Running the notebook
 
-Once you have opened the `````` file, run each cell with ```shift``` + ```Enter``` or go to the Cell tab and click on ```Run All``` and see the results.
+Once you have opened the ```AlzheimerFeatures.ipynb``` file, run each cell with ```shift``` + ```Enter``` or go to the Cell tab and click on ```Run All``` and see the results.
 
 ### Author
 
