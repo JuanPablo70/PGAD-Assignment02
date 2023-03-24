@@ -2,7 +2,7 @@
 
 # Alzheimer data set
 
-
+This project is an analysis of the [Alzheimer Features](https://www.kaggle.com/datasets/brsdincer/alzheimer-features) data set taken from Kaggle where it reads a cvs file, gives information of the missing values of the data set with a graph, imputes data in the missing values, and plots an histogram, a scatter plot and its correlation matrix.
 
 ### Prerequisites
 
