@@ -15,7 +15,7 @@ This project is an analysis of the [Alzheimer Features](https://www.kaggle.com/d
 To download this project, you must run the following command down below.
 
 ```
-https://github.com/JuanPablo70/PGAD-Assignment02.git
+git clone https://github.com/JuanPablo70/PGAD-Assignment02.git
 ```
 
 If you haven't set the R kernel on your computer, download and install [R for Windows](https://cran.r-project.org/bin/windows/base/) on your computer. Once R is installed, run the following commands in the R terminal:
